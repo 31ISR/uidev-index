@@ -94,7 +94,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная - калькулятор](https://github.com/21ISR/uidev-calc-lab)
 
 - [Лабораторная - интерактивные элементы](https://github.com/21ISR/uidev-interactive-ui-lab)
-- [Лабораторная - таймер](https://github.com/21ISR/uidev-timer-lab)
+- [Лабораторная - таймер](https://github.com/31ISR/uidev-timer-lab)
 
 ## Как выполнять задания
 
