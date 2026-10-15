@@ -95,6 +95,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 
 - [Лабораторная - интерактивные элементы](https://github.com/21ISR/uidev-interactive-ui-lab)
 - [Лабораторная - таймер](https://github.com/31ISR/uidev-timer-lab)
+- [Лабораторная - observer](https://github.com/31ISR/uidev-observer-lab)
 
 ## Как выполнять задания
 
