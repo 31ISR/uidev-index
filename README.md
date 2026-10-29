@@ -1,5 +1,7 @@
 # Разработка пользовательских интерфейсов
 
+[http](https://telemost.yandex.ru/j/21049538844602)
+
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1QlNnNLg2CPhlmlyUgOBSfg_bartMvMlxeVB-7SPv8zw/edit?usp=sharing)
